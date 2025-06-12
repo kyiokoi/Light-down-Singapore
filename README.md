@@ -13,7 +13,6 @@ I've always been curious about space and astronomy related topics, so it made me
 ## Getting Started
 
 ```bash
-git clone https://github.com/kyiokoi/LightPollution.git
+git clone https://github.com/kyiokoi/Light-down-Singapore.git
 cd LightPollution
-pip install -r requirements.txt
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook notebooks/datacleaning.ipynb
